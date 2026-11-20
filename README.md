@@ -27,7 +27,7 @@ A menu-driven Stack implementation in Java with the following operations:
 
 ## 🛠️ Technologies
 
-- Java
+- Python
 - Data Structures
 - Algorithms
 
